@@ -8,3 +8,5 @@
 <marquee behavior="scroll" direction="up">
 <img src="http://www.html.am/images/html-codes/marquees/arrow-up.gif" width="32" height="32" alt="Arrow pointing up" />
 </marquee>
+  </body>
+</html>
